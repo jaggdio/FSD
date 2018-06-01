@@ -1,0 +1,33 @@
+# HMM
+https://sambaiga.github.io/2017/05/03/hmm-intro.html
+
+https://www.quora.com/What-is-the-best-Python-library-for-Hidden-Markov-Models # Quora Link for Libraries
+https://github.com/jmschrei/pomegranate #package in python
+
+
+http://www.blackarbs.com/blog/introduction-hidden-markov-models-python-networkx-sklearn/2/9/2017
+
+########
+1. observed variables
+2. hidden variables
+
+S => Hidden States
+Y => Observable Symbol
+
+A => transition matrix : represent prob of moving [ M x M, M is num of state]
+	 s_t-1 	to s_t
+
+B => emmision matrix
+
+Pi => initial state prob
+
+############
+
+1. Lambda and Y => likelihood
+2. Lambda and Y => State
+3. Learing Problem, Y => Lambda which maximise Likelood
+
+
+with open(zip_city_lookup_path, 'rb') as handle:
+              zip_city_lookup = pickle.load(handle) 
+

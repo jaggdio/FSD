@@ -1,0 +1,53 @@
+# search 
+python music feature extraction
+
+# paper
+https://www.hindawi.com/journals/mpe/2015/209814/
+
+# av
+https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/
+
+
+# library
+http://python-speech-features.readthedocs.io/en/latest/
+
+# MCFF Feature
+https://www.kaggle.com/ilyamich/mfcc-implementation-and-tutorial
+
+
+# 28th Solution
+https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56368#325914
+user : https://www.kaggle.com/rayarrow
+
+
+# EDA
+https://www.kaggle.com/codename007/a-very-extensive-freesound-exploratory-analysis
+
+# MFCC and HMM
+http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
+http://practicalcryptography.com/miscellaneous/machine-learning/hidden-markov-model-hmm-tutorial/
+
+# From MEdium
+https://medium.com/@kangeugine/hidden-markov-model-7681c22f5b9
+
+# GMC Registration
+https://www.rcr.ac.uk/clinical-radiology/gmc-registration
+
+# short cut
+https://github.com/keunwoochoi/music-auto_tagging-keras
+https://keunwoochoi.wordpress.com/2016/09/28/musictaggercrnn-model-is-added-in-keras-application-for-tagging-or-feature-extract/
+
+
+CRNN
+# https://stackoverflow.com/questions/48356464/how-to-model-convolutional-recurrent-network-crnn-in-keras?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+
+#
+https://www.kaggle.com/ryanzhang/keras-dscnn?scriptVersionId=2063917
+g search => Depthwise separable - CNN keras
+https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
+https://github.com/changtimwu/changtimwu.github.com/issues/70
+
+
+
+
